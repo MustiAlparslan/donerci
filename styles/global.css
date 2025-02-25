@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+.welcome-section {
+    padding: 40px 20px; /* Sağlıklı padding sağlar */
+    padding-top: 150px;
+  }
+  
+  .welcome-heading {
+    font-size: 32px; /* Başlık için büyük ve okunaklı bir boyut */
+    font-weight: bold; /* Başlığı vurgular */
+    margin-bottom: 20px; /* Başlık ile paragraf arasında mesafe sağlar */
+  }
+  
+  .welcome-text {
+    font-size: 18px; /* Okunabilir metin boyutu */
+    line-height: 1.6; /* Metin satır yüksekliği, okunabilirliği artırır */
+  }
